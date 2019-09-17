@@ -348,3 +348,5 @@ Please see the [dependency-check google group](https://groups.google.com/forum/#
 - If show summary is disabled and vulnerable libraries are found that fail the build details are no longer displayed in the console – only that vulnerable libraries were identified
 - Resolved issues with threading and multiple connections to the embedded H2 database
   - This allows the Jenkins pipeline, Maven Plugin, etc. to safely run parallel executions of dependency-check
+
+origin
