@@ -172,3 +172,4 @@ Dependency-Check makes use of several other open source libraries. Please see th
   [notices]: https://github.com/jeremylong/DependencyCheck/blob/master/NOTICE.txt
 
 hoge
+foo
